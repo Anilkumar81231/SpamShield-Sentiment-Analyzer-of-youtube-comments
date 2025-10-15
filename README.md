@@ -61,6 +61,19 @@ It combines Natural Language Processing (NLP) and Machine Learning (ML) to deliv
 
 ---
 
+
+<img width="1889" height="829" alt="image" src="https://github.com/user-attachments/assets/1be6721d-f943-4670-9077-fdb135e77cb9" />
+results
+
+<img width="1895" height="818" alt="image" src="https://github.com/user-attachments/assets/d7287218-9c1e-4901-a578-dd6befd65453" />\
+
+pi char
+<img width="1870" height="668" alt="image" src="https://github.com/user-attachments/assets/6bc17291-e013-4c18-8326-c583a8a83c7a" />
+
+detailed analysis
+<img width="1867" height="770" alt="image" src="https://github.com/user-attachments/assets/5336f157-26db-4423-94fd-c954f5c4e335" />
+
+
 ## 🧰 Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -68,16 +81,7 @@ It combines Natural Language Processing (NLP) and Machine Learning (ML) to deliv
 git clone https://github.com/yourusername/spamshield-sentiment-analyzer.git
 cd spamshield-sentiment-analyzer
 
-<img width="1892" height="830" alt="image" src="https://github.com/user-attachments/assets/b371238c-e4d0-42fc-9b92-ab55e6de0fd9" />
-analysis
 
-<img width="1886" height="811" alt="image" src="https://github.com/user-attachments/assets/4ae08cb1-df48-48be-9c76-503ef1d0a113" />
-
-pi chart
-<img width="1892" height="820" alt="image" src="https://github.com/user-attachments/assets/a7b7aa5d-1add-41d1-badd-ed77ed50de0c" />
-
-explation
-![Uploading image.png…]()
 
 
 
