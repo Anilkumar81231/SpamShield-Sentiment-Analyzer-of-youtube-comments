@@ -67,3 +67,17 @@ It combines Natural Language Processing (NLP) and Machine Learning (ML) to deliv
 ```bash
 git clone https://github.com/yourusername/spamshield-sentiment-analyzer.git
 cd spamshield-sentiment-analyzer
+
+<img width="1892" height="830" alt="image" src="https://github.com/user-attachments/assets/b371238c-e4d0-42fc-9b92-ab55e6de0fd9" />
+analysis
+
+<img width="1886" height="811" alt="image" src="https://github.com/user-attachments/assets/4ae08cb1-df48-48be-9c76-503ef1d0a113" />
+
+pi chart
+<img width="1892" height="820" alt="image" src="https://github.com/user-attachments/assets/a7b7aa5d-1add-41d1-badd-ed77ed50de0c" />
+
+explation
+![Uploading image.png…]()
+
+
+
